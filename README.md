@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Natasha</h1>
+<h1>Hi 👋, It's wonderful to meet you!</h1>
+I'm Natasha, Fullstack Software Engineer based in <b>United Kingdom</b>
+want to get in touch? [please do](mailto:natasha@sanguinesoiree.co.uk) ❤️
+
+<h1>Hi 👋, I'm Natasha</h1>
 <h3 align="center">A free spirited Fullstack Software Engineer from UK</h3>
 
 <h3 align="left">Languages and Tools:</h3>
